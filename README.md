@@ -1,11 +1,11 @@
-# mytestvueproject
+# base_vue_elementui
 
 # project description
 > VUE + Element UI Demo
 
 ## 用Vue脚手架初始化一个基于 webpack 模板的新项目
 ```bash
-vue init webpack mytestvueproject
+vue init webpack base_vue_elementui
 ```
 会提示:
 项目名称、项目描述、作者: 自定义
@@ -14,7 +14,7 @@ ESLint：根据自己情况填写
 
 ## 安装项目需要到模块
 ``` bash
-cd mytestvueproject
+cd base_vue_elementui
 npm install
 ```
 若安装比较慢，是因为 npm 要安装的包都是国外服务器上，这时npm资源镜像改到国内镜像即可，这里选淘宝镜像；
